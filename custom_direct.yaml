@@ -1,5 +1,4 @@
 payload:
-  - "myip.ipip.net"
-  - "+.media.doven.tv"
-  - "+.makima.online"
-  - "gdcucc.v1.mk"
+  - DOMAIN-SUFFIX,myip.ipip.net
+  - DOMAIN-SUFFIX,media.doven.tv
+  - DOMAIN-SUFFIX,makima.online
